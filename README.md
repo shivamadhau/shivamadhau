@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 
 
-i am shivam ,no nickname 
+i am shivam
 
 I am actually a beginner in this coding world, i dont have much knowledge
 
@@ -14,3 +14,16 @@ i am actuall studying fear from a very long time but still i always findout that
 
 
 i not came from any tech background but i know that ***i will do it***
+
+
+### *so lets end it with a harsh truth*
+
+the ***worst lies***
+
+are the ***ones***
+
+we ***tell***
+
+***ourselves***.
+
+And now it think that i am expert at ***lying***
