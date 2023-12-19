@@ -12,3 +12,6 @@ with your ***problem***
 May be they ***will***
 
 ***leave*** you too!! 
+
+
+next project is a message encryptor which can encrypt or decrypt data on 64bit system 
