@@ -3,15 +3,6 @@ Shivam
 
 A.K.A 🦥 lazy
 
-tip for you:-
+get your hands on my physhing tool github.com/shivamadhau/OI
 
-fell in ***love***
-
-with your ***problem***
-
-May be they ***will***
-
-***leave*** you too!! 
-
-
-next project is a message encryptor which can encrypt or decrypt data on 64bit system 
+next project will be a message encryptor which can encrypt or decrypt data on 256/128/64/32bit system
