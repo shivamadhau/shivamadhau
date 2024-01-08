@@ -6,7 +6,7 @@ I'm passionate about building cool things with code and constantly exploring new
 
 - 🌱 I’m currently diving into the world of programing
 - 👯 I’m looking to collaborate on projects related to Data encryptor and decryptor
-- 📫 How to reach me: (mailto🥇dhaushivam@email.com)
+- 📫 How to reach me: (mailto🥇adhaushivam@email.com)
 - 😄 Pronouns: He/His
 
 ## 🔧 Skills
